@@ -7,7 +7,8 @@ import Counter from "./features/counter/Counter";
 function App() {
   return (
     <>
-      <Counter /> lalalal
+      <Counter />
+      лише нижній лічидьник зберігається в localStorage
     </>
   );
 }
